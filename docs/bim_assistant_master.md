@@ -89,25 +89,19 @@ Permitir a busca, carregamento e atualizações de famílias diretamente da bibl
 
 Status: Em estudo
 
-##### Anotações
-
----
-
 #### Tags
 
 Permitir localizar famílias através de palavras-chave.
 
 Exemplo:
 
-estrutura
+*estrutura*
 
-elétrica
+*elétrica*
 
-hidráulica
+*hidráulica*
 
 Status: Em estudo
-
-##### Anotações
 
 ---
 
@@ -119,9 +113,7 @@ Localizar e substituir valores de parâmetros.
 
 Status: Em desenvolvimento (MVP)[^1]
 
-##### Anotações
-
----
+[^1]: MVP ou Produto Mínimo Viável, é a menor versão de um projeto que resolve um problema real de ponta a ponta para um usuário. Não é sistema pela metade: é o mínimo necessário para a solução de um único problema.
 
 #### Criação
 
@@ -129,17 +121,11 @@ Criar parâmetros a partir de arquivos compartilhados.
 
 Status: Em estudo
 
-##### Anotações
-
----
-
 #### Inserção
 
 Adicionar parâmetros automaticamente em famílias selecionadas.
 
 Status: Em estudo
-
-##### Anotações
 
 ---
 
@@ -151,27 +137,17 @@ Gerar tabelas automaticamente.
 
 Status: Em estudo
 
-##### Anotações
-
----
-
 #### Quantitativos
 
 Gerar relatórios quantitativos.
 
 Status: Em estudo
 
-##### Anotações
-
----
-
 #### Exportação
 
 Exportar dados para planilhas.
 
 Status: Em estudo
-
-##### Anotações
 
 ---
 
@@ -183,27 +159,17 @@ Analisar conflitos entre elementos.
 
 Status: Em estudo
 
-##### Anotações
-
----
-
 ### Conectividade
 
 Validar conexões entre componentes.
 
 Status: Em estudo
 
-##### Anotações
-
----
-
 ### Inconsistências
 
 Detectar elementos com parâmetros incorretos ou ausentes.
 
 Status: Em estudo
-
-##### Anotações
 
 ---
 
@@ -215,19 +181,11 @@ Chat integrado ao plugin.
 
 Status: Planejado
 
-##### Anotações
-
----
-
 #### Explicações
 
 Explicar funcionalidades do Revit.
 
 Status: Em estudo
-
-##### Anotações
-
----
 
 #### Processos
 
@@ -235,25 +193,13 @@ Ensinar processos BIM.
 
 Status: Em estudo
 
-##### Anotações
-
----
-
-### Linguagem Natural
+#### Linguagem Natural
 
 Transformar comandos em ações do plugin.
 
 Status: Planejado
 
-##### Anotações
-
----
-
 ## Primeira Demonstração
-
-Descrição:
-
-[^1]: MVP ou Produto Mínimo Viável, é a menor versão de um projeto que resolve um problema real de ponta a ponta para um usuário. Não é sistema pela metade: é o mínimo necessário para a solução de um único problema.
 
 Objetivo:
 
