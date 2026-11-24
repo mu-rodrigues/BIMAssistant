@@ -211,7 +211,3 @@ Escopo:
 - Ferramenta de Find and Replace.
 - Chat com IA.
 - Interpretação de linguagem natural.
-
-## Roadmap
-
-Averiguação de situação do projeto em: [ROADMAP](docs/bim_assistant_roadmap.md)
