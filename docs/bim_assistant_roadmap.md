@@ -108,3 +108,12 @@ Usuário → IA → Plugin → Revit API
 Motivo:
 
 Reduzir complexidade nas fases iniciais e permitir evolução gradual da solução.
+
+
+### Decisão 008
+
+Não criar o arquivo ARCHITECTURE.md neste momento.
+
+Motivo:
+
+A arquitetura atual é simples e já está adequadamente documentada no Master Document. A criação de um documento dedicado neste estágio aumentaria a burocracia sem gerar ganho real para o projeto.
