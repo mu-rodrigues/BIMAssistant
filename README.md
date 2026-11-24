@@ -28,10 +28,11 @@ As versões iniciais conterão protótipos e implementações simplificadas com 
 
 As funcionalidades descritas neste repositório representam objetivos de desenvolvimento e podem sofrer **alterações** ao longo do projeto.
 
+Este projeto faz uso de **Inteligência Arficial** tanto na estruturação, auxílio e aprendizagem.
+
 ## Documentação
 
 Para informações detalhadas consulte:
 
--
--
--
+- [DOCUMENT MASTER](docs/bim_assistant_master.md)
+- [ROADMAP](docs/bim_assistant_roadmap.md)
