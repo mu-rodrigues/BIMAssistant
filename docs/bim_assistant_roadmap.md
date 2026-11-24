@@ -74,3 +74,37 @@ O projeto permanecerá público durante a fase de estudos.
 Motivo:
 
 Não existem informações proprietárias sendo utilizadas neste estágio.
+
+## 24/11/2026
+
+### Decisão 005
+
+O aprendizado de programação será tratado separadamente do desenvolvimento do BIM Assistant.
+
+Motivo:
+
+Conhecimentos fundamentais de C# pertencem ao desenvolvedor e não ao produto, evitando que o repositório principal seja utilizado como ambiente de estudos genéricos.
+
+### Decisão 006
+
+A inteligência artificial será considerada uma camada complementar do sistema.
+
+Motivo:
+
+As funcionalidades devem existir e funcionar independentemente da presença da IA.
+
+A IA será responsável por interpretar solicitações e direcionar comandos para funcionalidades já implementadas no plugin.
+
+### Decisão 007
+
+A arquitetura inicial utilizará o fluxo:
+
+Usuário → Interface → Plugin → Revit API
+
+e futuramente:
+
+Usuário → IA → Plugin → Revit API
+
+Motivo:
+
+Reduzir complexidade nas fases iniciais e permitir evolução gradual da solução.

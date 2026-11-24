@@ -16,11 +16,11 @@
 
 ## Visão do Projeto
 
-O BIM Assistant é um plug-in para Autodesk Revit desenvolvido com foco em automação de tarefas, gerenciamento de bibliotecas e assistência ao usuário através de inteligência artificial.
+O BIM Assistant é um plug-in para Autodesk Revit desenvolvido com foco em automação de tarefas, gerenciamento de bibliotecas e assistência técnica ao usuário.
 
-O objetivo é reduzir o tempo gasto em atividades repetitivas, facilitar processos de modelagem e parametrização e permitir que usuários iniciantes e avançados realizem tarefas complexas através de uma interface intuitiva.
+A inteligência artificial deve atuar como uma camada complementar do sistema, auxiliando na execução e interpretação de comandos, sem substituir as funcionalidades implementadas pelo próprio plug-in.
 
-A longo prazo, o BIM Assistant deve atuar como um assistente técnico especializado em BIM, sendo capaz de orientar usuários, executar comandos e auxiliar na tomada de decisões.
+O objetivo é reduzir tarefas repetitivas, facilitar a manipulação de dados e fornecer suporte técnico contextualizado para usuários de diferentes níveis de experiência.
 
 ## Problema que o Projeto Busca Resolver
 
@@ -51,13 +51,33 @@ A IA não executa ações diretamente no Revit.
 
 A IA atua como interpretadora de comandos.
 
-### Fluxo esperado:
+### Arquitetura Inicial
 
-1. Usuário envia uma solicitação.
-2. IA interpreta o pedido.
-3. IA converte a solicitação em uma ação estruturada.
-4. Plugin executa a ação através da Revit API.
-5. Usuário recebe o resultado.
+Fluxo simplificado previsto para o projeto:
+
+Usuário
+↓
+Interface do Plugin
+↓
+Camada de Comandos
+↓
+Revit API
+↓
+Modelo Revit
+
+Fluxo com IA:
+
+Usuário
+↓
+Chat BIM Assistant
+↓
+Interpretador de Linguagem Natural
+↓
+Camada de Comandos
+↓
+Revit API
+↓
+Modelo Revit
 
 ### Exemplo:
 
@@ -196,6 +216,19 @@ Status: Em estudo
 #### Linguagem Natural
 
 Transformar comandos em ações do plugin.
+
+Status: Planejado
+
+#### Consulta de Documentação
+
+Permitir consultas contextualizadas sobre o Revit utilizando documentação oficial da Autodesk.
+
+Exemplos:
+
+- Como utilizar parâmetros compartilhados?
+- Como funcionam schedules?
+- Como criar filtros de vista?
+- Explicação de ferramentas da versão utilizada pelo usuário.
 
 Status: Planejado
 
