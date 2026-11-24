@@ -117,3 +117,21 @@ Não criar o arquivo ARCHITECTURE.md neste momento.
 Motivo:
 
 A arquitetura atual é simples e já está adequadamente documentada no Master Document. A criação de um documento dedicado neste estágio aumentaria a burocracia sem gerar ganho real para o projeto.
+
+### Decisão 009
+
+Iniciar o desenvolvimento do primeiro projeto C# do BIM Assistant focado exclusivamente na lógica da funcionalidade de pesquisa e substituição, sem dependência da Revit API.
+
+Motivo:
+
+Permitir aprendizado gradual de C# enquanto se desenvolve uma funcionalidade real do produto.
+
+### Decisão 010
+
+As especificações detalhadas das funcionalidades serão mantidas e evoluídas dentro do arquivo FEATURES.md.
+
+Motivo:
+
+Neste estágio do projeto, a complexidade ainda não justifica a criação de documentos específicos para cada funcionalidade.
+
+A documentação deverá evoluir junto com o desenvolvimento, priorizando implementação e validação prática.
