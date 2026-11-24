@@ -31,8 +31,6 @@
 - [ ] Quantitativos
 - [ ] Filtros automáticos
 
----
-
 # Aprendizados Importantes
 
 ## Lembretes
@@ -42,8 +40,6 @@
 - A IA apenas utiliza funcionalidades existentes.
 - Priorizar simplicidade.
 - Construir um MVP antes do produto final.
-
----
 
 # Histórico de Decisões
 
